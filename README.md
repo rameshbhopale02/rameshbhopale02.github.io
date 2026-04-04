@@ -4,7 +4,7 @@ A bold, creative personal portfolio built with pure HTML, CSS, and JavaScript. N
 
 ---
 
-## 🚀 Deploy to GitHub Pages (5 minutes)
+## 🚀 Deploy to GitHub Pages
 
 ### Step 1 — Create a GitHub Repository
 1. Go to [github.com](https://github.com) and sign in
